@@ -1,8 +1,6 @@
-Typecho Blogging Platform
+TFH Project
 =========================
-
-# Deploy to Heroku  
-Official: https://heroku.com  
-
-How to Install:   
-> Click the button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) to Deploy a new app
+# 介绍
+TFH Project是一个让Typecho在Heroku上使用的项目
+# 导入到Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
