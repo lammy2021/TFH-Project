@@ -1,0 +1,7 @@
+{
+  "name": "TFH",
+  "description": "Typecho For Heroku",
+  "website": "https://github.com/iam233/TFH-Project",
+  "repository": "https://github.com/iam233/TFH-Project",
+  "success_url": "/"
+}
