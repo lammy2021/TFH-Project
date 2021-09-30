@@ -12,4 +12,5 @@ https://elements.heroku.com/addons/heroku-postgresql<br>
 打开管理面板，然后打开导航栏中的 Settings，下面的Database Credentials，点击View Credentials就会显示了<br>
 ![](https://phyllisjohnson.herokuapp.com/TFH-README/database.png)<br>
 Typecho数据库设置<br>
-![](https://phyllisjohnson.herokuapp.com/TFH-README/typecho-shezhi.png)
+![](https://phyllisjohnson.herokuapp.com/TFH-README/typecho-shezhi.png)<br>
+然后跟着Typecho的安装步骤走即可
