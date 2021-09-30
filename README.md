@@ -1,19 +1,8 @@
 Typecho Blogging Platform
 =========================
 
-Typecho is a PHP Blogging Platform. Simple and Powerful.
+# Deploy to Heroku  
+Official: https://heroku.com  
 
-#### Telegram Channel
-https://t.me/typechodev
-
-#### Homepage
-http://typecho.org/
-
-#### Documents
-http://docs.typecho.org/
-
-#### Community
-http://forum.typecho.org/
-
-#### Download
-http://typecho.org/download
+How to Install:   
+> Click the button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) to Deploy a new app
