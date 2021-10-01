@@ -1,7 +1,6 @@
 TFH Project
 =========================
 ![](https://phyllisjohnson.herokuapp.com/TFH-README/TFH-t.png)
-WFH Project:https://github.com/iam233/WFH-Project
 # 介绍
 TFH Project是一个让Typecho在免费容器Heroku上运行的项目<br>
 Demo:https://tfhproject.herokuapp.com/
